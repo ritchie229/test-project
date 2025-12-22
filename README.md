@@ -255,3 +255,9 @@ Switched to branch 'feature/junior-task'
 |    Telegram msg      |
 ========================
 ```
+
+---
+
+![GitHub all releases](https://img.shields.io/github/downloads/ritchie229/test-project/total)
+![GitHub stars](https://img.shields.io/github/stars/ritchie229/test-project)
+![GitHub forks](https://img.shields.io/github/forks/ritchie229/test-project)
